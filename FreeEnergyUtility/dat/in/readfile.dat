@@ -1,0 +1,11 @@
+300	## Temperature (K)
+1	## x scale - minimum separation of bins on the x axis
+0.1	## y scale
+-1	## x coordinate for starting point of most likely folding path: -1 is equivalent to starting at the largest possible value
+0	"## y coordinate, as above"
+End-to-End Distance (Å)	## Label on x axis
+Alpha Helicity	## Label on y axis
+1000	## Number of times to sample transition matrix distribution
+mod_select_above_delete_yes_5_not-normalized.dat	## Data files
+mod_select_above_delete_yes_10_not-normalized.dat	
+mod_select_above_delete_yes_20_not-normalized.dat	
